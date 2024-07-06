@@ -1,1 +1,1 @@
-ITMO
+This application is a directory cleaner tool for Windows os. It goes through all the files in directory which you have chosen and checks the extensions are in settings_file, if so it copies the file to metioned directory, if not it passes it
